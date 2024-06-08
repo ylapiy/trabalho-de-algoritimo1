@@ -1,0 +1,60 @@
+cliente: joel
+jogo comprado: dusk
+preco individual: 35
+copias: 4
+O valor total é: 140
+
+------------------------
+
+
+cliente: ricardojogo 
+comprado: gris
+preco individual: 25
+copias: 4
+O valor total é: 100
+
+------------------------
+
+
+cliente: fabriciojogo 
+comprado: ultrakill
+preco individual: 85
+copias: 2
+O valor total é: 170
+
+------------------------
+
+
+cliente: hugojogo 
+comprado: hades
+preco individual: 72
+copias: 10
+O valor total é: 720
+
+------------------------
+
+
+cliente: eduardo
+jogo comprado: dusk
+preco individual: 35
+copias: 2
+O valor total é: 70
+
+------------------------
+
+
+cliente: thiago
+jogo comprado: strive
+preco individual: 130
+copias: 2
+O valor total é: 260
+
+cliente: dusk
+jogo comprado: aaaaaaa
+preco individual: 78
+copias: 4
+O valor total é: 312
+
+------------------------
+
+

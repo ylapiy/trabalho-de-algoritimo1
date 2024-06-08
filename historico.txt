@@ -1,0 +1,14 @@
+Jogador 1: tulho
+Jogador 2: renar
+
+o jogador 1 ganhou com 3 rodadas
+
+------------------------
+
+
+Jogador 1: ygor
+Jogador 2: davi
+O jogo resultou em empate
+------------------------
+
+
